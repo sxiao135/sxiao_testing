@@ -7,3 +7,5 @@
     - don't forget the message, it's how you'll remember whichj version is which 
 - git status : allows you to see where your repository is vs the one on the web
 - git push: the changes get pushed up to github
+- git commit -am "message"
+    - adds/saves and commits at the same time
