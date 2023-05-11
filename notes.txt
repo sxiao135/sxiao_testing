@@ -9,3 +9,5 @@
 - git push: the changes get pushed up to github
 - git commit -am "message"
     - adds/saves and commits at the same time
+- git pull
+    - takes new changes from the web
