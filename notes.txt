@@ -11,3 +11,4 @@
     - adds/saves and commits at the same time
 - git pull
     - takes new changes from the web
+- merge conflicts: 
